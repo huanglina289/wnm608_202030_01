@@ -1,0 +1,25 @@
+[05-May-2020 01:24:05 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php on line 5
+[05-May-2020 01:34:41 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php on line 5
+[05-May-2020 01:36:34 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php on line 195
+[05-May-2020 01:38:01 UTC] PHP Warning:  include_once(..lib/php/functions.php): failed to open stream: No such file or directory in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php on line 2
+[05-May-2020 01:38:01 UTC] PHP Warning:  include_once(): Failed opening '..lib/php/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php on line 2
+[05-May-2020 01:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function makePDOConn() in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php on line 17
+[05-May-2020 01:38:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/lib/php/auth.php on line 20
+[05-May-2020 17:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/lib/php/functions.php:7) in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php on line 47
+[05-May-2020 17:44:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php on line 84
+[05-May-2020 17:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/admin/index.php on line 84
+[05-May-2020 17:56:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/lib/php/auth.php on line 20
+[05-May-2020 17:56:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/lib/php/auth.php on line 20
+[05-May-2020 17:56:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/lib/php/auth.php on line 20
+[05-May-2020 17:56:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/lib/php/auth.php on line 20
+[05-May-2020 17:56:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/lib/php/auth.php on line 20
+[05-May-2020 17:56:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/miowebtest/public_html/aau/wnm608/catanzaro.michael/lib/php/auth.php on line 20
